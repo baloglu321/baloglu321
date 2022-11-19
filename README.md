@@ -8,6 +8,7 @@ Hello, I work as a data scientist at a company that makes computer vision system
 
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-emin-baloglu/)
+
 [Mehmet Emin Baloğlu Özgeçmiş.pdf](https://github.com/baloglu321/baloglu321/blob/main/Mehmet-Emin-Baloglu-cv-ENG.pdf)
 <!--
 **baloglu321/baloglu321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
