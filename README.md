@@ -4,7 +4,7 @@ I work as a data scientist at a company that makes computer vision systems for w
 
 🔭 I’m currently working on Python and Computer Vision with yolo
 
-🌱 I’m currently learning  Cloud tech and SQL
+🌱 I’m currently learning  Cloud tech and Computher vision AI models
 
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-emin-baloglu/)
