@@ -4,12 +4,12 @@ I work as a data scientist at a company that makes computer vision systems for w
 
 🔭 I’m currently working on Python and Computer Vision with yolo
 
-🌱 I’m currently learning  Cloud tech and Computher vision AI models
+🌱 I’m currently learning  Computher vision AI models
 
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-emin-baloglu/)
 
- [Özgeçmiş](https://drive.google.com/file/d/19bfYUNQCn5kbmCvV1dSGO8pOoFRu2Mul/view?usp=sharing)
+ [My Resume](https://drive.google.com/file/d/19bfYUNQCn5kbmCvV1dSGO8pOoFRu2Mul/view?usp=sharing)
 <!--
 **baloglu321/baloglu321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
