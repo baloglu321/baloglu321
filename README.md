@@ -2,7 +2,7 @@
 I work as a data scientist at a company that makes computer vision systems for work health and safety. I have been improving myself in data science and deep learning for 2 years. I have been taking part in projects on deep learning, image processing and computer vision for 1 year.
 
 
-🔭 I’m currently working on Python and Computer Vision with yolo
+🔭 I’m currently working on Python and Computer Vision ,Gan and diffirent AI models
 
 🌱 I’m currently learning  Computher vision AI models
 
