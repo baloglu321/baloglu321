@@ -48,18 +48,11 @@ Merhaba! Ben yapay zeka modelleri, veri orkestrasyonu ve görüntü işleme üze
 
 ### 📊 GitHub İstatistiklerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baloglu321&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baloglu321&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baloglu321&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baloglu321&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baloglu321&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
+[![Streak Stats](https://streak-stats.demolab.com?user=baloglu321&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
 
 <div align="center">
