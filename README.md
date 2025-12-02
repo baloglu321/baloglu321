@@ -48,11 +48,8 @@ Merhaba! Ben yapay zeka modelleri, veri orkestrasyonu ve görüntü işleme üze
 
 ### 📊 GitHub İstatistiklerim
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baloglu321&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baloglu321a&hide_progress=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baloglu321&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=baloglu321&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
 
 <div align="center">
