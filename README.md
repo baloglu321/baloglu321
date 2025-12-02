@@ -10,13 +10,13 @@
 
 <br/>
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 About Me
 
-Merhaba! Ben yapay zeka modelleri, veri orkestrasyonu ve görüntü işleme üzerine odaklanan bir geliştiriciyim. Özellikle **Retrieval-Augmented Generation (RAG)** mimarileri, **LLM Fine-tuning** ve **Computer Vision** projeleri geliştiriyorum. Karmaşık problemleri optimize edilmiş kodlarla çözmeyi severim.
+I am an AI Engineer passionate about bridging the gap between heavy research models and real-world performance. My core focus is on **High-Performance Computing**, **RAG Architectures**, and **Computer Vision** pipelines. I don't just train models; I optimize them for production.
 
-- 🔭 Şu an **Multi-Hop Inference RAG Sistemleri** ve **YOLO/TensorRT Optimizasyonları** üzerinde çalışıyorum.
-- 🌱 **Agentic AI** ve **Data Science** alanlarında derinleşiyorum.
-- 🐧 Linux terminali benim evim.
+- 🔭 Building **Multi-Hop Inference RAG Systems** and pushing limits with **YOLO/TensorRT**.
+- 🌱 Exploring the frontiers of **Agentic AI** and **Advanced Data Science**.
+- 🐧 Native to the Linux terminal; obsessed with efficiency.
 
 ---
 
