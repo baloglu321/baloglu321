@@ -48,7 +48,19 @@ Merhaba! Ben yapay zeka modelleri, veri orkestrasyonu ve görüntü işleme üze
 
 ### 📊 GitHub İstatistiklerim
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baloglu321a&hide_progress=true)
+<div align="center">
+  <img src="https://github.com/baloglu321/baloglu321/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
+---
+
+### 🏆 Başarılarım
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=baloglu321&theme=flat&no-frame=true&column=7" width="100%" />
+  </a>
+</div>
 
 ---
 
