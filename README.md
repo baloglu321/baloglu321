@@ -1,28 +1,72 @@
-### Hi there 👋
-I work as a data scientist at a company that makes computer vision systems for work health and safety. I have been improving myself in data science and deep learning for 3 years. I have been taking part in projects on deep learning, image processing and computer vision for 2 year.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I'm%20baloglu321&descAlignY=55&descAlign=50" />
+  
+  <br/>
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Research+%26+Development;Building+Advanced+RAG+Systems;Computer+Vision+(YOLO+%2F+TensorRT);Linux+%26+Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-🔭 I’m currently working on Python and Computer Vision ,Gan and diffirent AI models
+<br/>
 
-🌱 I’m currently learning  Computher vision AI models
+### 👨‍💻 Hakkımda
 
+Merhaba! Ben yapay zeka modelleri, veri orkestrasyonu ve görüntü işleme üzerine odaklanan bir geliştiriciyim. Özellikle **Retrieval-Augmented Generation (RAG)** mimarileri, **LLM Fine-tuning** ve **Computer Vision** projeleri geliştiriyorum. Karmaşık problemleri optimize edilmiş kodlarla çözmeyi severim.
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-emin-baloglu/)
+- 🔭 Şu an **Multi-Hop Inference RAG Sistemleri** ve **YOLO/TensorRT Optimizasyonları** üzerinde çalışıyorum.
+- 🌱 **Agentic AI** ve **Data Science** alanlarında derinleşiyorum.
+- 🐧 Linux terminali benim evim.
 
- [My Resume](https://drive.google.com/file/d/1YSnOInbtjMhIIuXjqyx0tEeegXXHPDh8/view?usp=sharing)
+---
 
- ![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=baloglu321&show_icons=true&theme=transparent)
-<!--
-**baloglu321/baloglu321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Tools
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/ComfyUI-4752C4?style=for-the-badge&logo=openai&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baloglu321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baloglu321&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baloglu321&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+---
+
+<div align="center">
+  <a href="mailto:seninemailin@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/senin-profilin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
