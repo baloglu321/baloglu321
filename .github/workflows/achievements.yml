@@ -11,7 +11,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: Schweinepriester/github-profile-achievements@master  # DÜZELTME: @v1 yerine @master yaptık
+      - uses: Schweinepriester/github-profile-achievements@main  # DÜZELTME: @main yaptık
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: baloglu321
