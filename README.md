@@ -53,6 +53,13 @@ I am an AI Engineer passionate about bridging the gap between heavy research mod
 </div>
 
 ---
+### My Trophys
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=baloglu321&theme=tokyonight&no-frame=true&column=7&margin-w=15" width="100%" />
+  </a>
+</div>
+---
 
 <div align="center">
   <a href="mailto:baloglu321@gmail.com">
