@@ -53,11 +53,6 @@ I am an AI Engineer passionate about bridging the gap between heavy research mod
 </div>
 
 ---
-### 🏅 My Achievements
-<div align="center">
-  <img src="./profile-achievements.svg" width="100%">
-</div>
----
 
 ### 🃏 My Profile summary cards
 
