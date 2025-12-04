@@ -1,0 +1,19 @@
+name: Achievements
+on:
+  schedule:
+    - cron: '0 0 * * *' # Her gece çalışır
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Schweinepriester/github-profile-achievements@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: baloglu321
+          commit: true
+          AM_PM: false
+          # Rozetleri 3D mi yoksa Flat mi istiyorsun? (flat daha modern duruyor)
+          skin: flat
