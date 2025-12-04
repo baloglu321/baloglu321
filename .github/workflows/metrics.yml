@@ -2,9 +2,7 @@ name: Metrics
 on:
   # Her gün gece yarısı çalıştır
   schedule: [{cron: "0 0 * * *"}]
-  # Elle tetiklemeye izin ver
   workflow_dispatch:
-  # Master/Main branch'e push yapıldığında çalıştır
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,26 +12,17 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # GitHub Token'ı
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Ayarlar
+          # Temel Ayarlar
           user: baloglu321
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Istanbul
           
-          # Diller Kısmı
+          # Diller
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_limit: 4
           plugin_languages_sections: most-used
           plugin_lines: yes
-
-          # --- YENİ EKLENEN KISIM: BAŞARILAR (TROPHIES) ---
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B      # C seviyesi ve üzerini gösterir (dolu görünmesi için iyidir)
-          plugin_achievements_secrets: no     # Gizli başarımları da göster
