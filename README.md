@@ -46,20 +46,17 @@ I am an AI Engineer passionate about bridging the gap between heavy research mod
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 My GitHub Statistics
 
 <div align="center">
   <img src="./github-metrics.svg" alt="Metrics" width="100%">
 </div>
 ---
 
-### 🏆 Başarılarım
+### 🏆 My Trophys
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=baloglu321&theme=flat&no-frame=true&column=7" width="100%" />
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=baloglu321&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
