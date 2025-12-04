@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # GitHub Token'ı (bunu github otomatik sağlar, senin bir şey yapmana gerek yok)
+          # GitHub Token'ı
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Ayarlar
@@ -22,6 +22,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Istanbul
+          
+          # Diller Kısmı
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
@@ -29,3 +31,9 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_sections: most-used
           plugin_lines: yes
+
+          # --- YENİ EKLENEN KISIM: BAŞARILAR (TROPHIES) ---
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C      # C seviyesi ve üzerini gösterir (dolu görünmesi için iyidir)
+          plugin_achievements_secrets: yes      # Gizli başarımları da göster
