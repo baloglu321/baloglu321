@@ -46,21 +46,11 @@ I am an AI Engineer passionate about bridging the gap between heavy research mod
 
 ---
 
-### 📊 My GitHub Statistics
+### 📊 My GitHub Statistics and Trophys
 
 <div align="center">
   <img src="./github-metrics.svg" alt="Metrics" width="100%">
 </div>
----
-
-### 🏆 My Trophys
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=baloglu321&theme=tokyonight&no-frame=true&column=7&margin-w=15" width="100%" />
-  </a>
-</div>
-
 
 ---
 
