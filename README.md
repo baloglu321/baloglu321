@@ -46,15 +46,8 @@ I am an AI Engineer passionate about bridging the gap between heavy research mod
 
 ---
 
-### 📊 My GitHub Statistics 
 
-<div align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="100%">
-</div>
-
----
-
-### 🃏 My Profile summary cards
+### 🃏 My Profile summary cards & GitHub Statistics 
 
 <div align="center">
 
