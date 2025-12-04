@@ -55,7 +55,7 @@ I am an AI Engineer passionate about bridging the gap between heavy research mod
 
 ### 🏆 My Trophys
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=baloglu321&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=baloglu321&theme=darkhub
 
 
 ---
