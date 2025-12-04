@@ -46,7 +46,7 @@ I am an AI Engineer passionate about bridging the gap between heavy research mod
 
 ---
 
-### 📊 My GitHub Statistics and Trophys
+### 📊 My GitHub Statistics 
 
 <div align="center">
   <img src="./github-metrics.svg" alt="Metrics" width="100%">
@@ -62,15 +62,22 @@ I am an AI Engineer passionate about bridging the gap between heavy research mod
 ### 🃏 My Profile summary cards
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="45%" />
-  
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="45%" />
-  
+
+  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
+
+  <br/><br/>
+
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
   <br/>
   
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="45%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" />
+  <br/>
   
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="45%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="100%" />
+  <br/>
+  
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="100%" />
+
 </div>
 
 ---
