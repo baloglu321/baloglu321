@@ -35,5 +35,5 @@ jobs:
           # --- YENİ EKLENEN KISIM: BAŞARILAR (TROPHIES) ---
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: C      # C seviyesi ve üzerini gösterir (dolu görünmesi için iyidir)
-          plugin_achievements_secrets: yes      # Gizli başarımları da göster
+          plugin_achievements_threshold: B      # C seviyesi ve üzerini gösterir (dolu görünmesi için iyidir)
+          plugin_achievements_secrets: no     # Gizli başarımları da göster
