@@ -56,10 +56,7 @@ I am an AI Engineer passionate about bridging the gap between heavy research mod
 
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
   <br/>
-  
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" />
-  <br/>
-  
+    
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="100%" />
   <br/>
   
