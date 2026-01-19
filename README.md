@@ -10,6 +10,12 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://github.com/baloglu321">
+    <img src="https://github-trophies.vercel.app/?username=baloglu321&theme=algolia&margin-w=19&title=Repositories,Commits,MultiLanguage,LongTimeUser,Followers,NewUser&column=6" />
+  </a>
+</p>
+
 ### 👨‍💻 About Me
 
 I am an AI Engineer passionate about bridging the gap between heavy research models and real-world performance. My core focus is on **High-Performance Computing**, **RAG Architectures**, and **Computer Vision** pipelines. I don't just train models; I optimize them for production.
@@ -64,6 +70,13 @@ I am an AI Engineer passionate about bridging the gap between heavy research mod
 
 </div>
 
+## 📈 GitHub Analytics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 <div align="center">
